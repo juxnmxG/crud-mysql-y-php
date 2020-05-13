@@ -1,0 +1,46 @@
+.formulario{
+  background-color: gray;
+  border-radius: 3px gray;
+  margin-left: 50px;
+}
+.contenedor{
+  margin: 0 30px;
+  width: 90%;
+}
+.btn{
+  margin-left: 30px;
+}
+.login{
+  border-radius: 10px;
+  width: 50%;
+  margin: auto;
+  padding: 50px;
+  background-color: black;
+  text-align: center;
+}
+.espacio{
+  padding: 5px;
+  border-radius: 5px;
+  background-color: white 1px;
+}
+.paginador a, .selector{
+  margin: auto;
+  padding: 1px;
+  list-style: none;
+  background-color: black;
+  color: white;
+  border: 1px black;
+}
+.paginador a:hover{
+  list-style: none;
+  background-color: gray;
+  color: black;
+}
+.selector{
+  background: white;
+  color: black;
+  border: solid 1px black;
+}
+.span{
+  margin-left: 5px;
+}
